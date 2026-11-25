@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/profile-garden.svg" width="100%" alt="Animated night garden, mountains, black walking cat, twinkling stars, and bold healthcare and operations headline" /></p>
+<p align="center"><a href="#featured-work"><img src="assets/profile-garden.svg" width="100%" alt="Animated night garden, mountains, black walking cat, twinkling stars, and bold healthcare and operations headline — click to explore featured work" /></a></p>
 
 # Vaishnavi Amruthala
 
@@ -43,20 +43,9 @@ I turn complex data into trusted KPIs, clear dashboards, and practical recommend
 
 ## Toolkit
 
-<table width="100%" border="0" cellpadding="8" cellspacing="8">
-<tr>
-<td width="33%" valign="top"><table width="100%" border="1" cellpadding="12" cellspacing="0" bordercolor="#d8e4d1"><tr><td valign="top" bgcolor="#fbfcf8"><strong>01 · Data Warehousing</strong><br/><small>DW</small><hr/><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="20" height="20" alt="Snowflake logo" /> Snowflake<br/><img src="https://cdn.simpleicons.org/googlebigquery/669DF6" width="20" height="20" alt="Google BigQuery logo" /> Google BigQuery<br/><img src="https://cdn.simpleicons.org/dbt/FF694B" width="20" height="20" alt="dbt logo" /> dbt</td></tr></table></td>
-<td width="33%" valign="top"><table width="100%" border="1" cellpadding="12" cellspacing="0" bordercolor="#d8e4d1"><tr><td valign="top" bgcolor="#fbfcf8"><strong>02 · Business Intelligence</strong><br/><small>BI</small><hr/><img src="https://cdn.simpleicons.org/tableau/E97627" width="20" height="20" alt="Tableau logo" /> Tableau<br/><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="20" height="20" alt="Power BI logo" /> Power BI<br/><img src="https://cdn.simpleicons.org/looker/4285F4" width="20" height="20" alt="Looker logo" /> Looker</td></tr></table></td>
-<td width="33%" valign="top"><table width="100%" border="1" cellpadding="12" cellspacing="0" bordercolor="#d8e4d1"><tr><td valign="top" bgcolor="#fbfcf8"><strong>03 · Programming &amp; Analytics</strong><hr/><img src="https://cdn.simpleicons.org/python/3776AB" width="20" height="20" alt="Python logo" /> Python<br/>▣ SQL<br/><img src="https://cdn.simpleicons.org/r/276DC3" width="20" height="20" alt="R logo" /> R<br/><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="20" height="20" alt="Microsoft Excel logo" /> Excel<br/>Σ Statistics</td></tr></table></td>
-</tr>
-<tr>
-<td width="33%" valign="top"><table width="100%" border="1" cellpadding="12" cellspacing="0" bordercolor="#d8e4d1"><tr><td valign="top" bgcolor="#fbfcf8"><strong>04 · Databases</strong><hr/><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="20" height="20" alt="PostgreSQL logo" /> PostgreSQL<br/><img src="https://cdn.simpleicons.org/microsoftaccess/A4373A" width="20" height="20" alt="Microsoft Access logo" /> MS Access<br/><img src="https://cdn.simpleicons.org/sqlite/003B57" width="20" height="20" alt="SQLite logo" /> SQLite</td></tr></table></td>
-<td width="33%" valign="top"><table width="100%" border="1" cellpadding="12" cellspacing="0" bordercolor="#d8e4d1"><tr><td valign="top" bgcolor="#fbfcf8"><strong>05 · Statistical Tools</strong><hr/><strong>SAS Viya</strong><br/><strong>JMP</strong></td></tr></table></td>
-<td width="33%" valign="top"><table width="100%" border="1" cellpadding="12" cellspacing="0" bordercolor="#d8e4d1"><tr><td valign="top" bgcolor="#fbfcf8"><strong>06 · CRM &amp; Data Governance</strong><hr/><img src="https://cdn.simpleicons.org/salesforce/00A1E0" width="20" height="20" alt="Salesforce logo" /> Salesforce<br/><img src="https://cdn.simpleicons.org/hubspot/FF7A59" width="20" height="20" alt="HubSpot logo" /> HubSpot<br/><img src="https://cdn.simpleicons.org/airtable/18BFFF" width="20" height="20" alt="Airtable logo" /> Airtable<br/>✓ Data Quality<br/>✓ Data Validation<br/>✓ PII/PHI Data<br/>✓ Data Compliance</td></tr></table></td>
-</tr>
+<table width="100%" border="0" cellpadding="7" cellspacing="6">
+<tr><td width="25%" align="center"><a href="https://www.python.org/doc/"><img src="assets/toolkit/python.svg" width="100%" alt="Python toolkit card — opens official documentation" /></a></td><td width="25%" align="center"><a href="https://www.sqltutorial.org/"><img src="assets/toolkit/sql.svg" width="100%" alt="SQL toolkit card — opens official documentation" /></a></td><td width="25%" align="center"><a href="https://help.tableau.com/"><img src="assets/toolkit/tableau.svg" width="100%" alt="Tableau toolkit card — opens official documentation" /></a></td><td width="25%" align="center"><a href="https://learn.microsoft.com/power-bi/"><img src="assets/toolkit/power-bi.svg" width="100%" alt="Power BI toolkit card — opens official documentation" /></a></td></tr>
+<tr><td width="25%" align="center"><a href="https://support.microsoft.com/excel"><img src="assets/toolkit/excel.svg" width="100%" alt="Excel toolkit card — opens official documentation" /></a></td><td width="25%" align="center"><a href="https://docs.snowflake.com/"><img src="assets/toolkit/snowflake.svg" width="100%" alt="Snowflake toolkit card — opens official documentation" /></a></td><td width="25%" align="center"><a href="https://documentation.sas.com/?cdcId=vdmmlcdc&cdcVersion=8.1"><img src="assets/toolkit/sas-viya.svg" width="100%" alt="SAS Viya toolkit card — opens official documentation" /></a></td><td width="25%" align="center"><a href="https://docs.getdbt.com/"><img src="assets/toolkit/dbt.svg" width="100%" alt="dbt toolkit card — opens official documentation" /></a></td></tr>
 </table>
 
-
-
-
-
+<p><sub>Also: R, Statistics, BigQuery, Looker, PostgreSQL, MS Access, SQLite, JMP, Salesforce, HubSpot, Airtable, data quality, data validation, PII/PHI data, and data compliance.</sub></p>
