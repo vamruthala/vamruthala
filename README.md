@@ -1,4 +1,4 @@
-<p align="center"><a href="#featured-work"><img src="assets/profile-garden.svg" width="100%" alt="Animated night garden, mountains, black walking cat, twinkling stars, and bold healthcare and operations headline — click to explore featured work" /></a></p>
+<p align="center"><img src="assets/profile-garden.svg" width="100%" alt="Animated night garden, mountains, black walking cat, twinkling stars, and bold healthcare and operations headline" /></p>
 
 # Vaishnavi Amruthala
 
