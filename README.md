@@ -7,7 +7,7 @@
 ## About Me
 
 Hi, I’m Vaishnavi, a BI and Business Analyst focused on healthcare and operations.  
-I turn complex data into trusted KPIs, clear dashboards, and practical recommendations.
+I work across research and industry settings, translating complex data into trusted KPIs, clear dashboards, and practical recommendations.
 
 <p align="left"><strong>Connect with me</strong><br/>
 <a href="https://www.linkedin.com/in/vaishnaviamruthala"><img src="assets/icons/contact-linkedin.svg" width="34" alt="LinkedIn — floating icon" align="absmiddle" /></a>&nbsp; <a href="https://www.linkedin.com/in/vaishnaviamruthala">LinkedIn</a> &nbsp;&nbsp;&nbsp;
@@ -45,6 +45,22 @@ I turn complex data into trusted KPIs, clear dashboards, and practical recommend
 <p align="center"><img src="assets/analysis-process.svg" width="100%" alt="Five moving steps: frame the question, prepare data, analyze, visualize, and recommend action" /></p>
 
 ## Toolkit
+
+### Technical Toolkit
+
+**Data Warehousing:** Snowflake · Google BigQuery · dbt
+
+**Business Intelligence:** Tableau · Power BI · Looker
+
+**Programming & Analytics:** Python · SQL · R · Excel
+
+**Databases:** PostgreSQL · MS Access · SQLite
+
+**Statistical Tools:** SAS Viya · JMP
+
+**CRM:** Salesforce · HubSpot · Airtable
+
+**Data Governance:** Data Quality · Data Validation · Data Compliance
 
 <table width="100%" border="0" cellpadding="7" cellspacing="6">
 <tr><td width="25%" align="center"><a href="https://www.python.org/doc/"><img src="assets/toolkit/python.svg" width="100%" alt="Python toolkit card — opens official documentation" /></a></td><td width="25%" align="center"><a href="https://www.sqltutorial.org/"><img src="assets/toolkit/sql.svg" width="100%" alt="SQL toolkit card — opens official documentation" /></a></td><td width="25%" align="center"><a href="https://help.tableau.com/"><img src="assets/toolkit/tableau.svg" width="100%" alt="Tableau toolkit card — opens official documentation" /></a></td><td width="25%" align="center"><a href="https://learn.microsoft.com/power-bi/"><img src="assets/toolkit/power-bi.svg" width="100%" alt="Power BI toolkit card — opens official documentation" /></a></td></tr>
