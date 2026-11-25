@@ -1,0 +1,2 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Clinical data quality heartbeat icon"><rect x="6" y="6" width="36" height="36" rx="12" fill="#eef5e8"/><path d="M10 25h8l4-9 6 17 4-8h6" fill="none" stroke="#618354" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="48"><animate attributeName="stroke-dashoffset" values="48;0;0" keyTimes="0;.5;1" dur="2.4s" repeatCount="indefinite"/></path><animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="3s" repeatCount="indefinite"/></svg>
+
