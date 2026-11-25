@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="82" viewBox="0 0 1120 82" role="img" aria-labelledby="title desc">
+<title id="title">Operations metrics ticker</title><desc id="desc">Cafe baseline table wait 13.01 minutes, cafe baseline food wait 28.05 minutes, inventory cutoff 7,000 units, and scenario table-wait difference 59.6 percent.</desc>
+<defs><clipPath id="frame"><rect width="1120" height="82" rx="18"/></clipPath></defs><rect width="1120" height="82" rx="18" fill="#f6f9f3" stroke="#dce8d8"/>
+<style>text{font-family:Segoe UI,Arial,sans-serif}.value{font-size:22px;font-weight:700;fill:#486344}.label{font-size:12px;fill:#687966}.divider{stroke:#d4e0cd;stroke-width:1}</style>
+<g clip-path="url(#frame)">
+ <g>
+  <g transform="translate(20 0)"><text class="value" y="36">13.01 min</text><text class="label" y="58">Cafe baseline · table wait</text></g><path class="divider" d="M280 17v48"/>
+  <g transform="translate(300 0)"><text class="value" y="36">28.05 min</text><text class="label" y="58">Cafe baseline · food wait</text></g><path class="divider" d="M560 17v48"/>
+  <g transform="translate(580 0)"><text class="value" y="36">7,000 units</text><text class="label" y="58">Inventory dashboard cutoff</text></g><path class="divider" d="M840 17v48"/>
+  <g transform="translate(860 0)"><text class="value" y="36">59.6%</text><text class="label" y="58">Scenario table-wait difference</text></g>
+  <animateTransform attributeName="transform" type="translate" from="0 0" to="-1120 0" dur="24s" additive="sum" repeatCount="indefinite"/>
+ </g>
+ <g transform="translate(1120 0)">
+  <g transform="translate(20 0)"><text class="value" y="36">13.01 min</text><text class="label" y="58">Cafe baseline · table wait</text></g><path class="divider" d="M280 17v48"/>
+  <g transform="translate(300 0)"><text class="value" y="36">28.05 min</text><text class="label" y="58">Cafe baseline · food wait</text></g><path class="divider" d="M560 17v48"/>
+  <g transform="translate(580 0)"><text class="value" y="36">7,000 units</text><text class="label" y="58">Inventory dashboard cutoff</text></g><path class="divider" d="M840 17v48"/>
+  <g transform="translate(860 0)"><text class="value" y="36">59.6%</text><text class="label" y="58">Scenario table-wait difference</text></g>
+  <animateTransform attributeName="transform" type="translate" from="0 0" to="-1120 0" dur="24s" additive="sum" repeatCount="indefinite"/>
+ </g>
+</g></svg>
+
+
