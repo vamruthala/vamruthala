@@ -10,9 +10,9 @@ Hi, I’m Vaishnavi, a BI and Business Analyst focused on healthcare and operati
 I turn complex data into trusted KPIs, clear dashboards, and practical recommendations.
 
 <p align="left"><strong>Connect with me</strong><br/>
-<a href="https://www.linkedin.com/in/vaishnaviamruthala"><img src="assets/icons/contact-linkedin.svg" width="34" alt="LinkedIn — floating icon" align="absmiddle" /></a>&nbsp; LinkedIn &nbsp;&nbsp;&nbsp;
-<a href="mailto:vaishnaviamruthala@gmail.com"><img src="assets/icons/contact-email.svg" width="34" alt="Email Vaishnavi Amruthala — floating icon" align="absmiddle" /></a>&nbsp; vaishnaviamruthala@gmail.com &nbsp;&nbsp;&nbsp;
-<a href="https://public.tableau.com/app/profile/vaishnavi.amruthala8328/vizzes"><img src="assets/icons/contact-tableau.svg" width="34" alt="Tableau Public — floating icon" align="absmiddle" /></a>&nbsp; Tableau Public</p>
+<a href="https://www.linkedin.com/in/vaishnaviamruthala"><img src="assets/icons/contact-linkedin.svg" width="34" alt="LinkedIn — floating icon" align="absmiddle" /></a>&nbsp; <a href="https://www.linkedin.com/in/vaishnaviamruthala">LinkedIn</a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:vaishnaviamruthala@gmail.com"><img src="assets/icons/contact-email.svg" width="34" alt="Email Vaishnavi Amruthala — floating icon" align="absmiddle" /></a>&nbsp; <a href="mailto:vaishnaviamruthala@gmail.com">vaishnaviamruthala@gmail.com</a> &nbsp;&nbsp;&nbsp;
+<a href="https://public.tableau.com/app/profile/vaishnavi.amruthala8328/vizzes"><img src="assets/icons/contact-tableau.svg" width="34" alt="Tableau Public — floating icon" align="absmiddle" /></a>&nbsp; <a href="https://public.tableau.com/app/profile/vaishnavi.amruthala8328/vizzes">Tableau Public</a></p>
 
 [Featured work](#featured-work) · [How I work](#how-i-work) · [Toolkit](#toolkit) · [All repositories](https://github.com/vamruthala?tab=repositories)
 
@@ -53,3 +53,4 @@ I turn complex data into trusted KPIs, clear dashboards, and practical recommend
 
 <p><sub>Also: R, Statistics, BigQuery, Looker, PostgreSQL, MS Access, SQLite, JMP, Salesforce, HubSpot, Airtable, data quality, data validation, PII/PHI data, and data compliance.</sub></p>
 
+README.md
