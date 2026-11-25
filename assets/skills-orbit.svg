@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 116" role="img" aria-labelledby="title desc">
+<title id="title">Analytics toolkit</title><desc id="desc">Animated green tiles for Python, SQL, business intelligence, data warehousing, dbt, and CRM.</desc>
+<rect width="900" height="116" rx="18" fill="#f7faf4"/>
+<style>text{font-family:Segoe UI,Arial,sans-serif}.tile{fill:#e8f0e2;stroke:#c5d6bd;stroke-width:1}.symbol{font-size:18px;font-weight:700;fill:#45613e}.label{font-size:12px;fill:#687966}.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 3.6s ease-in-out infinite}@keyframes pulse{0%,75%,100%{opacity:1}82%{opacity:.58}}</style>
+<g class="pulse" style="animation-delay:0s"><rect class="tile" x="15" y="18" width="132" height="80" rx="14"/><text class="symbol" x="81" y="52" text-anchor="middle">Py</text><text class="label" x="81" y="76" text-anchor="middle">Python</text></g>
+<g class="pulse" style="animation-delay:.3s"><rect class="tile" x="162" y="18" width="132" height="80" rx="14"/><text class="symbol" x="228" y="52" text-anchor="middle">SQL</text><text class="label" x="228" y="76" text-anchor="middle">Query</text></g>
+<g class="pulse" style="animation-delay:.6s"><rect class="tile" x="309" y="18" width="132" height="80" rx="14"/><text class="symbol" x="375" y="52" text-anchor="middle">BI</text><text class="label" x="375" y="76" text-anchor="middle">Tableau · Power BI</text></g>
+<g class="pulse" style="animation-delay:.9s"><rect class="tile" x="456" y="18" width="132" height="80" rx="14"/><text class="symbol" x="522" y="52" text-anchor="middle">DW</text><text class="label" x="522" y="76" text-anchor="middle">Snowflake · BigQuery</text></g>
+<g class="pulse" style="animation-delay:1.2s"><rect class="tile" x="603" y="18" width="132" height="80" rx="14"/><text class="symbol" x="669" y="52" text-anchor="middle">dbt</text><text class="label" x="669" y="76" text-anchor="middle">Transform</text></g>
+<g class="pulse" style="animation-delay:1.5s"><rect class="tile" x="750" y="18" width="132" height="80" rx="14"/><text class="symbol" x="816" y="52" text-anchor="middle">CRM</text><text class="label" x="816" y="76" text-anchor="middle">Salesforce · HubSpot</text></g>
+</svg>
+
