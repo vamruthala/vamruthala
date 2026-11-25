@@ -1,6 +1,6 @@
-<p align="center"><img src="assets/profile-garden.svg" width="100%" alt="Animated night garden with mountains, a black cat, moving chart, and bold healthcare and operations headline" /></p>
+<p align="center"><img src="assets/profile-garden.svg" width="100%" alt="Animated night garden with mountains, a black cat walking, twinkling stars, moving chart, and bold healthcare and operations headline" /></p>
 
-<p align="center"><a href="https://www.linkedin.com/in/vaishnaviamruthala">LinkedIn</a> · <a href="mailto:vaishnaviamruthala@gmail.com">Email</a> · <a href="https://public.tableau.com/app/profile/vaishnavi.amruthala8328/vizzes">Tableau Public</a></p>
+<p align="center">Connect with me on <img src="assets/icons/contact-linkedin.svg" width="22" alt="💼" /> <a href="https://www.linkedin.com/in/vaishnaviamruthala">LinkedIn</a> · <img src="assets/icons/contact-email.svg" width="22" alt="✉️" /> <a href="mailto:vaishnaviamruthala@gmail.com">Email</a> · <img src="assets/icons/contact-tableau.svg" width="22" alt="📊" /> <a href="https://public.tableau.com/app/profile/vaishnavi.amruthala8328/vizzes">Tableau Public</a></p>
 
 # Vaishnavi Amruthala
 
@@ -24,18 +24,17 @@ Healthcare and operations analysis, from trusted data and clear KPIs to practica
 </tr>
 <tr>
 <td width="50%"><img src="assets/icons/sales-performance.svg" width="26" alt="Animated sales growth chart icon" /> <strong><a href="https://github.com/vamruthala/sales-performance-analytics">Sales Performance</a></strong><br/>Sales across customers, products, categories, and regions.<br/><sub>+26.97% year-over-year sales growth · Tableau · Excel</sub></td>
-<td width="50%"><img src="assets/icons/customer-segmentation.svg" width="26" alt="Animated customer segmentation icon" /> <strong><a href="https://github.com/vamruthala/customer-segmentation-analysis">Customer Segmentation</a></strong><br/>Spending-based profiles for focused offer tests.<br/><sub>2 clusters · 2,240 customers · Tableau</sub></td>
+<td width="50%"><img src="assets/icons/customer-churn.svg" width="26" alt="Animated customer churn icon" /> <strong><a href="https://github.com/vamruthala/customer-churn-analysis">Customer Churn</a></strong><br/>Churn pattern and driver analysis to inform retention questions.<br/><sub>Nominal logistic regression · model evaluation · JMP</sub></td>
 </tr>
 </table>
+
+<p align="center"><img src="assets/rotating-charts.svg" width="100%" alt="Healthcare patient case mix and cafe operations wait-time charts, switching every five seconds with animated bars" /></p>
+
+<sub>Healthcare case mix is from the dashboard. Cafe scenario values are illustrative comparisons, not measured live results.</sub>
 
 ## How I work
 
 <p align="center"><img src="assets/analysis-process.svg" width="100%" alt="Five moving steps: frame the question, prepare data, analyze, visualize, and recommend action" /></p>
-<p align="center"><img src="assets/ops-metrics.svg" width="100%" alt="Four moving operations metrics: cafe table and food wait baselines, inventory cutoff, and scenario table-wait comparison" /></p>
-
-<sub>Reported cafe baselines and inventory dashboard cutoff. The 59.6% is a scenario comparison, not a measured live result.</sub>
-
-<p align="center"><img src="assets/sales-growth.svg" width="90%" alt="Sales growth from $574.43K in 2021 to $729.42K in 2022, up 26.97 percent" /></p>
 
 ## Toolkit
 
@@ -44,5 +43,4 @@ Snowflake · BigQuery · dbt · PostgreSQL · MS Access · SQLite
 Salesforce · HubSpot · Airtable · Data quality · Validation · PII/PHI data compliance
 
 <p align="center"><img src="assets/skills-orbit.svg" width="100%" alt="Animated skill tiles for Python, SQL, business intelligence, data warehousing, dbt, and CRM" /></p>
-
 
