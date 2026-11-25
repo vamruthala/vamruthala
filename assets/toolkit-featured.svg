@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="222" viewBox="0 0 1120 222" role="img" aria-labelledby="title desc">
+<title id="title">Featured toolkit</title>
+<desc id="desc">Eight separate rectangular skill cards with a gentle vertical float and a brighter border on hover when the SVG viewer supports interaction.</desc>
+<defs>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    text{font-family:monospace}.card{cursor:pointer}.surface{fill:#ffffff;stroke:#d2dfca;stroke-width:1.5;transition:fill .25s ease,stroke .25s ease,filter .25s ease}.card:hover .surface{fill:#f2f8ed;stroke:#78a76b;filter:url(#glow)}.icon{font-size:25px}.label{font-size:15px;font-weight:700;fill:#40543b;letter-spacing:.2px}
+  </style>
+</defs>
+<rect x="1" y="1" width="1118" height="220" rx="20" fill="#f7faf4" stroke="#d9e4d2"/>
+<g class="card" transform="translate(30 27)"><g><rect class="surface" width="250" height="70" rx="15"/><text class="icon" x="22" y="44">🐍</text><text class="label" x="62" y="42">Python</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="4.8s" begin="0s" repeatCount="indefinite"/></g></g>
+<g class="card" transform="translate(300 27)"><g><rect class="surface" width="250" height="70" rx="15"/><text class="icon" x="22" y="44">🔎</text><text class="label" x="62" y="42">SQL</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="4.8s" begin=".35s" repeatCount="indefinite"/></g></g>
+<g class="card" transform="translate(570 27)"><g><rect class="surface" width="250" height="70" rx="15"/><text class="icon" x="22" y="44">📊</text><text class="label" x="62" y="42">Tableau</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="4.8s" begin=".7s" repeatCount="indefinite"/></g></g>
+<g class="card" transform="translate(840 27)"><g><rect class="surface" width="250" height="70" rx="15"/><text class="icon" x="22" y="44">📈</text><text class="label" x="62" y="42">Power BI</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="4.8s" begin="1.05s" repeatCount="indefinite"/></g></g>
+<g class="card" transform="translate(30 125)"><g><rect class="surface" width="250" height="70" rx="15"/><text class="icon" x="22" y="44">📗</text><text class="label" x="62" y="42">Excel</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="4.8s" begin=".25s" repeatCount="indefinite"/></g></g>
+<g class="card" transform="translate(300 125)"><g><rect class="surface" width="250" height="70" rx="15"/><text class="icon" x="22" y="44">❄️</text><text class="label" x="62" y="42">Snowflake</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="4.8s" begin=".6s" repeatCount="indefinite"/></g></g>
+<g class="card" transform="translate(570 125)"><g><rect class="surface" width="250" height="70" rx="15"/><text class="icon" x="22" y="44">🧪</text><text class="label" x="62" y="42">SAS Viya</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="4.8s" begin=".95s" repeatCount="indefinite"/></g></g>
+<g class="card" transform="translate(840 125)"><g><rect class="surface" width="250" height="70" rx="15"/><text class="icon" x="22" y="44">🔧</text><text class="label" x="62" y="42">dbt</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="4.8s" begin="1.3s" repeatCount="indefinite"/></g></g>
+</svg>
+
