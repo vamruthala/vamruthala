@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Vaishnavi Amruthala — Healthcare and Operations Analytics</title>
+<desc id="desc">A quiet night garden with a black cat beneath a crescent moon, rolling hills, and growing plants.</desc>
+<defs>
+  <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#080d22"/><stop offset=".68" stop-color="#182343"/><stop offset="1" stop-color="#28324a"/></linearGradient>
+  <linearGradient id="ground" x2="0" y2="1"><stop stop-color="#3b4926"/><stop offset="1" stop-color="#202b1b"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="440" rx="28" fill="url(#sky)"/>
+<g fill="#f2ead7" opacity=".78">
+ <circle cx="84" cy="74" r="2"><animate attributeName="opacity" values=".45;1;.45" dur="3.8s" repeatCount="indefinite"/></circle><circle cx="171" cy="119" r="1.5"/><circle cx="258" cy="64" r="1.4"/><circle cx="348" cy="102" r="1.8"/><circle cx="425" cy="49" r="1.5"/><circle cx="516" cy="117" r="1.6"/><circle cx="593" cy="72" r="1.3"><animate attributeName="opacity" values=".35;1;.35" dur="4.6s" repeatCount="indefinite"/></circle><circle cx="687" cy="106" r="1.8"/><circle cx="770" cy="58" r="1.4"/><circle cx="864" cy="102" r="1.6"/><circle cx="942" cy="59" r="1.4"/><circle cx="1095" cy="106" r="1.7"/><circle cx="1131" cy="76" r="1.3"/>
+ <circle cx="122" cy="166" r="1.4"/><circle cx="301" cy="184" r="1.7"/><circle cx="467" cy="159" r="1.3"/><circle cx="631" cy="187" r="1.6"/><circle cx="1048" cy="171" r="1.5"><animate attributeName="opacity" values=".4;1;.4" dur="3.2s" repeatCount="indefinite"/></circle><circle cx="1138" cy="211" r="1.4"/>
+</g>
+<circle cx="965" cy="143" r="53" fill="#e7dcb7" opacity=".16" filter="url(#glow)"/>
+<circle cx="965" cy="143" r="29" fill="#f2edda"/><circle cx="978" cy="133" r="27" fill="#0b1024"/>
+<path d="M0 296 Q185 211 376 270 T760 276 T1200 248 V370 H0Z" fill="#26324b"/>
+<path d="M0 327 Q190 269 393 318 T794 311 T1200 289 V378 H0Z" fill="#34402d"/>
+<path d="M0 352 Q225 322 428 351 T852 344 T1200 330 V440 H0Z" fill="url(#ground)"/>
+<g fill="#402a25" opacity=".65"><circle cx="214" cy="294" r="34"/><circle cx="375" cy="310" r="26"/><circle cx="793" cy="293" r="35"/></g>
+<g fill="#a75e3c" opacity=".92"><circle cx="214" cy="286" r="29"/><circle cx="375" cy="304" r="22"/><circle cx="793" cy="285" r="30"/></g>
+<g stroke="#294c2a" stroke-width="5" stroke-linecap="round" fill="none">
+ <path d="M30 382V336m0 27-12-8m12 15 13-9M64 382V322m0 40 13-10m-13-2-13-9M101 382V340m0 20-12-9m12-1 12-9M147 382V326m0 31-13-8m13-2 12-9M196 382V338m0 20 13-8m-13-3-12-9M249 382V318m0 41-13-10m13-1 14-10M305 382V339m0 20 13-8m-13-4-13-9M348 382V321m0 41-14-10m14-1 13-9M421 382V337m0 18 13-9m-13-2-12-9M469 382V319m0 41-13-9m13-1 12-9M526 382V336m0 20 14-9m-14-4-12-9M579 382V323m0 39-13-9m13-1 13-9M631 382V340m0 18 13-8m-13-3-12-9M684 382V320m0 42-13-9m13-1 13-9M738 382V337m0 20 14-9m-14-4-12-9M844 382V323m0 39-13-9m13-1 13-9M901 382V338m0 20 13-8m-13-4-12-9M956 382V320m0 41-13-10m13-1 13-9M1011 382V339m0 19 13-9m-13-3-12-9M1066 382V322m0 40-13-9m13-1 13-9M1120 382V337m0 20 13-9m-13-3-12-9M1165 382V327m0 35-13-10m13 0 13-9"/>
+</g>
+<g fill="#c87953"><circle cx="30" cy="336" r="6"/><circle cx="64" cy="322" r="6"/><circle cx="147" cy="326" r="6"/><circle cx="249" cy="318" r="6"/><circle cx="348" cy="321" r="6"/><circle cx="469" cy="319" r="6"/><circle cx="579" cy="323" r="6"/><circle cx="684" cy="320" r="6"/><circle cx="844" cy="323" r="6"/><circle cx="956" cy="320" r="6"/><circle cx="1066" cy="322" r="6"/><circle cx="1165" cy="327" r="6"/></g>
+<g fill="#030609" aria-label="Black cat silhouette">
+ <path d="M857 380 C841 377 836 365 841 356 C845 349 853 352 855 359 C856 365 850 369 847 365 C849 372 857 372 864 371Z"/>
+ <path d="M864 389 C857 380 861 364 871 358 C882 350 898 355 903 367 C907 377 901 390 892 394 L875 394Z"/>
+ <path d="M895 377 C895 361 900 349 911 346 C923 342 933 350 933 362 C933 375 926 382 916 383 L906 394 L898 394Z"/>
+ <path d="M903 350 L901 332 L915 345Z M916 345 L929 329 L929 350Z"/>
+ <path d="M871 387 L869 401 L878 401 L882 389Z M887 388 L889 401 L898 401 L898 384Z M904 381 L901 401 L910 401 L913 380Z M920 378 L918 401 L927 401 L929 372Z"/>
+ <path d="M930 365 C938 365 942 368 947 366" fill="none" stroke="#030609" stroke-width="2"/>
+</g>
+<rect y="0" width="1200" height="440" rx="28" fill="none" stroke="#ffffff" stroke-opacity=".1"/>
+<text x="66" y="62" fill="#d3ddce" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3">HEALTHCARE  ·  OPERATIONS  ·  BUSINESS INTELLIGENCE</text>
+<text x="66" y="126" fill="#f4f1e8" font-family="Segoe UI,Arial,sans-serif" font-size="37" font-weight="700">Clear analysis. Useful decisions.</text>
+<text x="67" y="156" fill="#aebdd1" font-family="Segoe UI,Arial,sans-serif" font-size="17">A portfolio of dashboards, metrics, and practical recommendations</text>
+<rect x="0" y="404" width="1200" height="36" rx="0" fill="#18251c" opacity=".95"/>
+<text x="66" y="428" fill="#b5c09d" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1">VAISHNAVI AMRUTHALA  /  BUSINESS INTELLIGENCE &amp; BUSINESS ANALYSIS</text>
+</svg>
+
+
+
+
+
+
+
