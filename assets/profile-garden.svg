@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 3014)
-Total output lines: 64
-
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
 <title id="title">Vaishnavi Amruthala — Healthcare, Operations, and Business Intelligence</title>
 <desc id="desc">An animated night garden with mountains, a crescent moon, a gently moving black cat, and bold analytics headlines on the right.</desc>
@@ -10,9 +7,9 @@ Total output lines: 64
  <linearGradient id="panel" x2="0" y2="1"><stop stop-color="#111a2a" stop-opacity=".97"/><stop offset="1" stop-color="#101827" stop-opacity=".93"/></linearGradient>
  <filter id="glow"><feGaussianBlur stdDeviation="16"/></filter>
  <clipPath id="round"><rect width="1200" height="440" rx="28"/></clipPath>
- <clipPath id="typed-0" clipPathUnits="userSpaceOnUse"><rect x="760" y="198" width="0" height="32"><animate attributeName="width" values="0;11;22;33;44;55;66;77;88;99;110;121;132;143;154;165;176;187;198;209;220;231;242;253;253;242;231;220;209;198;187;176;165;154;143;132;121;110;99;88;77;66;55;44;33;22;11;0;0" keyTimes="0;0.005;0.01;0.015;0.02;0.025;0.03;0.035;0.04;0.045;0.05;0.055;0.06;0.065;0.07;0.075;0.08;0.085;0.09;0.095;0.1;0.105;0.11;0.115;0.20944;0.21222;0.215;0.21778;0.22056;0.22333;0.22611;0.22889;0.23167;0.23444;0.23722;0.24;0.24278;0.24556;0.24833;0.25111;0.25389;0.25667;0.25944;0.26222;0.265;0.26778;0.27056;0.27333;1" calcMode="discrete" dur="18s" repeatCount="indefinite"/></rect></clipPath>
- <clipPath id="typed-1" clipPathUnits="userSpaceOnUse"><rect x="760" y="198" width="0" height="32"><animate attributeName="width" values="0;0;11;22;33;44;55;66;77;88;99;110;121;132;143;154;165;176;187;198;209;220;231;242;242;231;220;209;198;187;176;165;154;143;132;121;110;99;88;77;66;55;44;33;22;11;0;0" keyTimes="0;0.33333;0.33833;0.34333;0.34833;0.35333;0.35833;0.36333;0.36833;0.37333;0.37833;0.38333;0.38833;0.39333;0.39833;0.40333;0.40833;0.41333;0.41833;0.42333;0.42833;0.43333;0.43833;0.44333;0.53778;0.54056;0.54333;0.54611;0.54889;0.55167;0.55444;0.55722;0.56;0.56278;0.56556;0.56833;0.57111;0.57389;0.57667;0.57944;0.58222;0.585;0.58778;0.59056;0.59333;0.59611;0.59889;1" calcMode="discrete" dur="18s" repeatCount="indefinite"/></rect></clipPath>
- <clipPath id="typed-2" clipPathUnits="userSpaceOnUse"><rect x="760" y="198" width="0" height="32"><animate attributeName="width" values="0;0;11;22;33;44;55;66;77;88;99;110;121;132;143;154;165;176;187;198;209;220;231;242;253;264;275;286;286;275;264;253;242;231;220;209;198;187;176;165;154;143;132;121;110;99;88;77;66;55;44;33;22;11;0;0" keyTimes="0;0.66667;0.67167;0.67667;0.68167;0.68667;0.69167;0.69667;0.70167;0.70667;0.71167;0.71667;0.72167;0.72667;0.73167;0.73667;0.74167;0.74667;0.75167;0.75667;0.76167;0.76667;0.77167;0.77667;0.78167;0.78667;0.79167;0.79667;0.89111;0.89389;0.89667;0.89944;0.90222;0.905;0.90778;0.91056;0.91333;0.91611;0.91889;0.92167;0.92444;0.92722;0.93;0.93278;0.93556;0.93833;0.94111;0.94389;0.94667;0.94944;0.95222;0.955;0.95778;0.96056;0.96333;1" calcMode="discrete" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+ <clipPath id="typed-healthcare" clipPathUnits="userSpaceOnUse"><rect x="760" y="198" width="0" height="32"><animate attributeName="width" values="0;11;22;33;44;55;66;77;88;99;110;121;132;143;154;165;176;187;198;209;220;231;242;253;253;242;231;220;209;198;187;176;165;154;143;132;121;110;99;88;77;66;55;44;33;22;11;0" keyTimes="0;0.00556;0.01111;0.01667;0.02222;0.02778;0.03333;0.03889;0.04444;0.05;0.05556;0.06111;0.06667;0.07222;0.07778;0.08333;0.08889;0.09444;0.1;0.10556;0.11111;0.11667;0.12222;0.12778;0.22222;0.225;0.22778;0.23056;0.23333;0.23611;0.23889;0.24167;0.24444;0.24722;0.25;0.25278;0.25556;0.25833;0.26111;0.26389;0.26667;0.26944;0.27222;0.275;0.27778;0.28056;0.28333;0.28611" calcMode="discrete" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+ <clipPath id="typed-operations" clipPathUnits="userSpaceOnUse"><rect x="760" y="198" width="0" height="32"><animate attributeName="width" values="0;11;22;33;44;55;66;77;88;99;110;121;132;143;154;165;176;187;198;209;220;231;242;242;231;220;209;198;187;176;165;154;143;132;121;110;99;88;77;66;55;44;33;22;11;0" keyTimes="0;0.33889;0.34444;0.35;0.35556;0.36111;0.36667;0.37222;0.37778;0.38333;0.38889;0.39444;0.4;0.40556;0.41111;0.41667;0.42222;0.42778;0.43333;0.43889;0.44444;0.45;0.45556;0.55556;0.55833;0.56111;0.56389;0.56667;0.56944;0.57222;0.575;0.57778;0.58056;0.58333;0.58611;0.58889;0.59167;0.59444;0.59722;0.6;0.60278;0.60556;0.60833;0.61111;0.61389;0.61667" calcMode="discrete" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+ <clipPath id="typed-dashboards" clipPathUnits="userSpaceOnUse"><rect x="760" y="198" width="0" height="32"><animate attributeName="width" values="0;11;22;33;44;55;66;77;88;99;110;121;132;143;154;165;176;187;198;209;220;231;242;253;264;275;286;286;275;264;253;242;231;220;209;198;187;176;165;154;143;132;121;110;99;88;77;66;55;44;33;22;11;0" keyTimes="0;0.67222;0.67778;0.68333;0.68889;0.69444;0.7;0.70556;0.71111;0.71667;0.72222;0.72778;0.73333;0.73889;0.74444;0.75;0.75556;0.76111;0.76667;0.77222;0.77778;0.78333;0.78889;0.79444;0.8;0.80556;0.81111;0.90556;0.90833;0.91111;0.91389;0.91667;0.91944;0.92222;0.925;0.92778;0.93056;0.93333;0.93611;0.93889;0.94167;0.94444;0.94722;0.95;0.95278;0.95556;0.95833;0.96111;0.96389;0.96667;0.96944;0.97222;0.975;0.97778" calcMode="discrete" dur="18s" repeatCount="indefinite"/></rect></clipPath>
 </defs>
 <g clip-path="url(#round)">
  <rect width="1200" height="440" fill="url(#sky)"/>
@@ -24,7 +21,8 @@ Total output lines: 64
  <path d="M0 296 Q185 211 376 270 T760 276 T1200 248 V370 H0Z" fill="#26324b"/>
  <path d="M0 327 Q190 269 393 318 T794 311 T1200 289 V378 H0Z" fill="#34402d"/>
  <path d="M0 352 Q225 322 428 351 T852 344 T1200 330 V440 H0Z" fill="url(#ground)"/>
- <g fill="#402a25" opacity=".65"><circle cx="214" cy="294" r="34"/><circle cx="375" cy="310" r="26"/><circle cx="793" cy="293" r="35"/></g><g fill="#a75e3c" opacity=".92"><circle cx="214" cy="286" r="29"/><circle cx="375" cy="304" r="22"/><circle cx="793" cy…14 tokens truncated…="5" stroke-linecap="round" fill="none">
+ <g fill="#402a25" opacity=".65"><circle cx="214" cy="294" r="34"/><circle cx="375" cy="310" r="26"/><circle cx="793" cy="293" r="35"/></g><g fill="#a75e3c" opacity=".92"><circle cx="214" cy="286" r="29"/><circle cx="375" cy="304" r="22"/><circle cx="793" cy="285" r="30"/></g>
+ <g stroke="#294c2a" stroke-width="5" stroke-linecap="round" fill="none">
   <path d="M30 382V336m0 27-12-8m12 15 13-9M64 382V322m0 40 13-10m-13-2-13-9M101 382V340m0 20-12-9m12-1 12-9M147 382V326m0 31-13-8m13-2 12-9M196 382V338m0 20 13-8m-13-3-12-9M249 382V318m0 41-13-10m13-1 14-10M305 382V339m0 20 13-8m-13-4-13-9M348 382V321m0 41-14-10m14-1 13-9M421 382V337m0 18 13-9m-13-2-12-9M469 382V319m0 41-13-9m13-1 12-9M526 382V336m0 20 14-9m-14-4-12-9M579 382V323m0 39-13-9m13-1 13-9M631 382V340m0 18 13-8m-13-3-12-9M684 382V320m0 42-13-9m13-1 13-9M738 382V337m0 20 14-9m-14-4-12-9M844 382V323m0 39-13-9m13-1 13-9M901 382V338m0 20 13-8m-13-4-12-9M956 382V320m0 41-13-10m13-1 13-9M1011 382V339m0 19 13-9m-13-3-12-9M1066 382V322m0 40-13-9m13-1 13-9M1120 382V337m0 20 13-9m-13-3-12-9M1165 382V327m0 35-13-10m13 0 13-9"/>
  </g>
  <g fill="#c87953"><circle cx="30" cy="336" r="6"/><circle cx="64" cy="322" r="6"/><circle cx="147" cy="326" r="6"/><circle cx="249" cy="318" r="6"/><circle cx="348" cy="321" r="6"/><circle cx="469" cy="319" r="6"/><circle cx="579" cy="323" r="6"/><circle cx="684" cy="320" r="6"/><circle cx="844" cy="323" r="6"/><circle cx="956" cy="320" r="6"/><circle cx="1066" cy="322" r="6"/><circle cx="1165" cy="327" r="6"/></g>
@@ -44,9 +42,11 @@ Total output lines: 64
  <text x="762" y="66" fill="#b8c99f" font-family="monospace" font-size="13" letter-spacing="3">HEALTHCARE · OPERATIONS · BI</text>
  <text x="758" y="132" fill="#f5f2e9" font-family="monospace" font-size="40" font-weight="700">Clear analysis.</text>
  <text x="758" y="179" fill="#f5f2e9" font-family="monospace" font-size="40" font-weight="700">Useful decisions.</text>
- <g>  <text x="760" y="222" fill="#b8c9df" font-family="monospace" font-size="18" clip-path="url(#typed-0)">Healthcare data quality</text>
-  <text x="760" y="222" fill="#b8c9df" font-family="monospace" font-size="18" clip-path="url(#typed-1)">Operations improvement</text>
-  <text x="760" y="222" fill="#b8c9df" font-family="monospace" font-size="18" clip-path="url(#typed-2)">Dashboards, KPIs, insights</text></g>
+ <g aria-label="Rotating specialties, typed one phrase at a time">
+  <text x="760" y="222" fill="#b8c9df" font-family="monospace" font-size="18" clip-path="url(#typed-healthcare)">Healthcare data quality</text>
+  <text x="760" y="222" fill="#b8c9df" font-family="monospace" font-size="18" clip-path="url(#typed-operations)">Operations improvement</text>
+  <text x="760" y="222" fill="#b8c9df" font-family="monospace" font-size="18" clip-path="url(#typed-dashboards)">Dashboards, KPIs, insights</text>
+ </g>
  <g transform="translate(760 264)" fill="none" stroke="#9fbd8e" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
   <path d="M0 38 H340" stroke="#44533e" stroke-width="1"/><path d="M5 33 L76 26 L133 31 L200 10 L263 18 L335 2" stroke-dasharray="410" stroke-dashoffset="410"><animate attributeName="stroke-dashoffset" values="410;0;0" keyTimes="0;.6;1" dur="5s" repeatCount="indefinite"/></path>
   <circle cx="200" cy="10" r="4" fill="#d79a68" stroke="none"><animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/></circle>
@@ -57,6 +57,7 @@ Total output lines: 64
 </g>
 <rect width="1200" height="440" rx="28" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
 </svg>
+
 
 
 
