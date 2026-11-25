@@ -1,26 +1,23 @@
 # Vaishnavi Amruthala
 
-**Business Intelligence Analyst | Business Analyst**
+**Business Intelligence Analyst · Business Analyst**
 
-My work solves healthcare and operational problems through clear analysis, decision-ready dashboards, and practical recommendations. Projects also cover HR, customer, sales, and marketing analytics.
+I use data to tackle healthcare and operational problems, turning business questions into clear measures, useful dashboards, and practical recommendations.
 
-**Tools:** Tableau · Excel · SAS Viya · JMP
+**Analytics:** Python · SQL · Statistics · Excel  
+**BI & platforms:** Tableau · SAS Viya · JMP · Salesforce
 
-## Selected projects
+## Selected work
 
-| Focus | Project | What it demonstrates |
+| Focus | Project | Evidence |
 |---|---|---|
 | Healthcare BI | [Healthcare Analytics Dashboard](https://github.com/vamruthala/healthcare-analytics-dashboard) | Service volume, revenue, case mix, and length-of-stay reporting. |
-| Supply Chain | [Inventory Restock Analytics](https://github.com/vamruthala/inventory-restock-supply-chain-analytics) | Restock and stale-unit patterns to guide replenishment review. |
-| HR Analytics | [Employee Attrition](https://github.com/vamruthala/employee-attrition-hr-analytics) | Segment-level attrition rates and workforce patterns. |
-| Customer Analytics | [Customer Segmentation](https://github.com/vamruthala/customer-segmentation-analysis) | Customer profiles from category-spending patterns. |
+| Supply Chain | [Inventory Restock Analytics](https://github.com/vamruthala/inventory-restock-supply-chain-analytics) | Restock and stale-unit patterns for replenishment review. |
+| HR Analytics | [Employee Attrition](https://github.com/vamruthala/employee-attrition-hr-analytics) | Historical attrition rates across workforce segments. |
+| Customer Analytics | [Customer Segmentation](https://github.com/vamruthala/customer-segmentation-analysis) | Spending-based customer profiles for focused offer tests. |
 | Marketing Analytics | [Campaign Cost Prediction](https://github.com/vamruthala/food-mart-marketing-campaign-cost-prediction) | SAS Viya model comparison and cost-driver analysis. |
-| Sales BI | [Sales Performance](https://github.com/vamruthala/sales-performance-analytics) | Sales growth and customer, product, category, and regional views. |
+| Sales BI | [Sales Performance](https://github.com/vamruthala/sales-performance-analytics) | Growth and performance by customer, product, category, and region. |
 
-## Project approach
-
-**Business question → data preparation → KPI or model analysis → findings → recommendations**
-
-Each repository presents its project workflow, metrics, interpretations, and visual evidence.
+**Approach:** Business question → data → KPI or model analysis → insight → recommendation
 
 [Browse all repositories](https://github.com/vamruthala?tab=repositories)
