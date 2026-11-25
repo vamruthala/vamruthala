@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="280" viewBox="0 0 880 280" role="img" aria-labelledby="title desc">
+<title id="title">Sales grew 26.97 percent from 2021 to 2022</title><desc id="desc">A bar chart compares sales of 574.43 thousand dollars in 2021 with 729.42 thousand dollars in 2022.</desc>
+<rect width="880" height="280" rx="18" fill="#fbfdf9"/><text x="32" y="42" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" fill="#455d43">Sales performance · year over year</text>
+<line x1="76" y1="220" x2="815" y2="220" stroke="#dbe6d6" stroke-width="2"/>
+<line x1="76" y1="180" x2="815" y2="180" stroke="#edf2ea"/><line x1="76" y1="140" x2="815" y2="140" stroke="#edf2ea"/><line x1="76" y1="100" x2="815" y2="100" stroke="#edf2ea"/>
+<rect x="190" y="112" width="150" height="108" rx="12" fill="#aac49b"/><rect x="514" y="82" width="150" height="138" rx="12" fill="#789c69"/>
+<text x="265" y="101" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#4f684a">$574.43K</text><text x="589" y="70" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#4f684a">$729.42K</text>
+<text x="265" y="250" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#65735f">2021</text><text x="589" y="250" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#65735f">2022</text>
+<rect x="698" y="105" width="145" height="54" rx="27" fill="#e9f1e5"/><text x="770" y="139" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#56734a">+26.97%</text>
+</svg>
+
