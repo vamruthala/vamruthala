@@ -6,7 +6,7 @@
  <g>
   <g>
    <g transform="translate(20 0)"><text class="value" x="0" y="35">498</text><text class="label" x="0" y="55">distinct cases</text></g><path class="divider" d="M274 16v50"/>
-   <g transform="translate(294 0)"><text class="value" x="0" y="35">8.523M*</text><text class="label" x="0" y="55">recorded revenue</text></g><path class="divider" d="M548 16v50"/>
+   <g transform="translate(294 0)"><text class="value" x="0" y="35">$8.523M</text><text class="label" x="0" y="55">recorded revenue</text></g><path class="divider" d="M548 16v50"/>
    <g transform="translate(568 0)"><text class="value" x="0" y="35">1.28 days</text><text class="label" x="0" y="55">average length of stay</text></g><path class="divider" d="M822 16v50"/>
    <g transform="translate(842 0)"><text class="value" x="0" y="35">1.037</text><text class="label" x="0" y="55">average case-mix index</text></g>
    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.45;.5;.95;1" dur="10s" repeatCount="indefinite"/>
@@ -23,4 +23,5 @@
  </g>
  <path d="M20 72H1100" stroke="#d8e5d1" stroke-width="1"/><circle r="3.3" fill="#88a978"><animateMotion dur="10s" repeatCount="indefinite" path="M24 72H1096"/></circle>
 </g></svg>
+
 
