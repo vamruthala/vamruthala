@@ -53,4 +53,3 @@ I turn complex data into trusted KPIs, clear dashboards, and practical recommend
 
 <p><sub>Also: R, Statistics, BigQuery, Looker, PostgreSQL, MS Access, SQLite, JMP, Salesforce, HubSpot, Airtable, data quality, data validation, PII/PHI data, and data compliance.</sub></p>
 
-README.md
