@@ -20,9 +20,10 @@ I solve healthcare and operational problems through clear business analysis, KPI
 ## Skills
 
 **Analytics:** Python · SQL · Statistics · Excel  
-**BI:** Tableau · SAS Viya · JMP  
+**BI:** Tableau · Power BI · Looker · SAS Viya · JMP  
 **Data warehousing & transformation:** Snowflake · BigQuery · dbt  
 **Databases:** PostgreSQL · MS Access · SQLite  
-**CRM:** Salesforce · HubSpot
+**CRM & work management:** Salesforce · HubSpot · Airtable  
+**Data quality & compliance:** Data quality · Data validation · PII/PHI data · Data compliance
 
 [Browse all repositories](https://github.com/vamruthala?tab=repositories)
