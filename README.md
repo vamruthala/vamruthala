@@ -35,6 +35,8 @@ I work across research and industry settings, translating complex data into trus
 </tr>
 </table>
 
+## Sample Analytics Work
+
 <p align="center"><img src="assets/rotating-kpis.svg" width="100%" alt="Single KPI strip switches with the charts: healthcare measures for the healthcare chart and cafe wait measures for the operations chart" /></p>
 <p align="center"><img src="assets/rotating-charts.svg" width="100%" alt="Healthcare patient case mix and cafe operations wait-time charts, switching every five seconds with animated bars" /></p>
 
