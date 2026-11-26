@@ -46,8 +46,6 @@ I work across research and industry settings, translating complex data into trus
 
 ## Toolkit
 
-### Technical Toolkit
-
 **Data Warehousing:** Snowflake · Google BigQuery · dbt
 
 **Business Intelligence:** Tableau · Power BI · Looker
@@ -70,4 +68,3 @@ I work across research and industry settings, translating complex data into trus
 </table>
 
 <p><sub>Also: R, Statistics, BigQuery, Looker, PostgreSQL, MS Access, SQLite, JMP, Salesforce, HubSpot, Airtable, data quality, data validation, PII/PHI data, and data compliance.</sub></p>
-
