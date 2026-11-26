@@ -68,9 +68,3 @@ I work across research and industry settings, translating complex data into trus
 <tr><td width="25%" align="center"><a href="https://www.python.org/doc/"><img src="assets/toolkit/python.svg" width="100%" alt="Python toolkit card — opens official documentation" /></a></td><td width="25%" align="center"><a href="https://www.sqltutorial.org/"><img src="assets/toolkit/sql.svg" width="100%" alt="SQL toolkit card — opens official documentation" /></a></td><td width="25%" align="center"><a href="https://help.tableau.com/"><img src="assets/toolkit/tableau.svg" width="100%" alt="Tableau toolkit card — opens official documentation" /></a></td><td width="25%" align="center"><a href="https://learn.microsoft.com/power-bi/"><img src="assets/toolkit/power-bi.svg" width="100%" alt="Power BI toolkit card — opens official documentation" /></a></td></tr>
 <tr><td width="25%" align="center"><a href="https://support.microsoft.com/excel"><img src="assets/toolkit/excel.svg" width="100%" alt="Excel toolkit card — opens official documentation" /></a></td><td width="25%" align="center"><a href="https://docs.snowflake.com/"><img src="assets/toolkit/snowflake.svg" width="100%" alt="Snowflake toolkit card — opens official documentation" /></a></td><td width="25%" align="center"><a href="https://documentation.sas.com/?cdcId=vdmmlcdc&cdcVersion=8.1"><img src="assets/toolkit/sas-viya.svg" width="100%" alt="SAS Viya toolkit card — opens official documentation" /></a></td><td width="25%" align="center"><a href="https://docs.getdbt.com/"><img src="assets/toolkit/dbt.svg" width="100%" alt="dbt toolkit card — opens official documentation" /></a></td></tr>
 </table>
-
-
-
-
-
-<p><sub>Also: R, Statistics, BigQuery, Looker, PostgreSQL, MS Access, SQLite, JMP, Salesforce, HubSpot, Airtable, data quality, data validation, PII/PHI data, and data compliance.</sub></p>
